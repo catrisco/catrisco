@@ -1,7 +1,7 @@
 ### OLÁ, TODOS 👋
 
 <h1 align="center">Eu sou a Catarina</h1>
-<h3 align="center">Sou uma engenheira eletricista apaixonada e do Brasil 💚💛💙 </h3>
+<h3 align="center">Sou uma Engenheira Eletricista ⚡ apaixonada e do Brasil 💚💛💙 </h3>
 
 - 🌱 Atualmente estou aprendendo **SQL**
 
