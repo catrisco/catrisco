@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Catarina</h1>
-<h3 align="center">A passionate electrical engineer and data scientist from Brazil</h3>
+<h3 align="center">A passionate electrical engineer from Brazil</h3>
 
 - 🌱 I’m currently learning **SQL**
 
